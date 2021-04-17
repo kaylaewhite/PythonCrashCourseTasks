@@ -1,3 +1,5 @@
+# beginner sorting exercises
+
 locations = ['Venice', 'Iceland', 'California', 'Moscow', 'Thailand', 'France']
 print(locations)
 print(sorted(locations))
