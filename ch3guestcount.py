@@ -1,3 +1,5 @@
+# beginner list exercise
+
 guest_list = ['Sarah', 'Albert', 'Nia', 'George']
 invite1 = f"Hello, {guest_list[0]}, you are invited to a dinner!"
 print(invite1)
